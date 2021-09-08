@@ -1,0 +1,3 @@
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS.Android\obj\Debug\90\build.props
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS.Android\obj\Debug\90\adb.props

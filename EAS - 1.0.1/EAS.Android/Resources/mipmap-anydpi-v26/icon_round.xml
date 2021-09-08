@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/launcher_background" />
+    <foreground android:drawable="@mipmap/launcher_foreground" />
+    <background android:drawable="@mipmap/anes" />
+    <background android:drawable="@mipmap/doctor" />
+    <background android:drawable="@mipmap/porter" />
+    <background android:drawable="@mipmap/security" />
+    <background android:drawable="@mipmap/trauma" />
+    <background android:drawable="@mipmap/nurse" />
+</adaptive-icon>
