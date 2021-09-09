@@ -1,0 +1,114 @@
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.deps.json
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.dll
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\bin\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.pdb
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\VMessage.xaml.g.cs
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.dll
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\DNS\Documents\Visual Studio 2019\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\VMessage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.deps.json
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\bin\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\bin\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - Copy\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\bin\Debug\netstandard2.1\EAS.deps.json
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\bin\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\bin\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\bin\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.deps.json
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.deps.json
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.CopyComplete
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\ref\EAS.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - FB - Copy\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.deps.json
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\ref\Eas.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.CopyComplete
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\Eas.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\ref\Eas.dll
+C:\Users\SOFTWARE\Documents\Visual Studio 2019\Projects\EAS Versions\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\Eas.pdb
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.deps.json
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.dll
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\ref\Eas.dll
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Eas.pdb
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.AssemblyInfo.cs
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\EAS.csproj.CopyComplete
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\Eas.dll
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\ref\Eas.dll
+C:\Users\SOFTWARE\Documents\GitHub\EAS - 1.0.1\EAS\obj\Debug\netstandard2.1\Eas.pdb
